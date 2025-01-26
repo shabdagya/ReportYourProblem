@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "573218425892",
+    "project_id": "reportyourproblem-f2c39",
+    "storage_bucket": "reportyourproblem-f2c39.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573218425892:android:042e329fb626a523791cb1",
+        "android_client_info": {
+          "package_name": "com.example.reportyourproblem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFzLAbH8OJvUGlv1aXz70P0LfG0KtaTPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
