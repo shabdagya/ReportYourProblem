@@ -1,9 +1,12 @@
 package com.example.reportyourproblem
 
 
+//import com.example.myapp.firebase.FirebaseAuthManager
+import com.example.reportyourproblem.firebase.FirebaseAuthManager
+
+
 import android.app.Activity
 import androidx.lifecycle.ViewModel
-import com.example.myapp.firebase.FirebaseAuthManager
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 

@@ -9,8 +9,8 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.viewmodel.compose.viewModel
-import com.example.myapp.viewmodel.LoginUiState
-import com.example.myapp.viewmodel.LoginViewModel
+import com.example.reportyourproblem.viewmodel.LoginUiState
+import com.example.reportyourproblem.viewmodel.LoginViewModel
 
 @Composable
 fun LoginScreen(activity: Activity, viewModel: LoginViewModel = viewModel()) {
